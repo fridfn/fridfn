@@ -1,3 +1,6 @@
+![Demo GIF](https://github.com/fridfn/repo/raw/main/sticker.gif)
+
+
 #### 💫 About Me:
 hi, I am a student who is very interested in learning website development (^^)<br>
 
