@@ -1,4 +1,4 @@
-![Demo GIF](https://github.com/fridfn/exfavorite/raw/main/7c3e3ffc38cc516eb1d8562f6400b858.jpg)
+![Demo GIF](https://github.com/fridfn/exfavorite/raw/main/924550f254f939c1fceaa2e6424b0b4c.jpg)
 
 
 #### 💫 About Me:
