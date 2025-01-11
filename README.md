@@ -2,32 +2,32 @@
 
 ![Demo GIF](https://github.com/fridfn/exfavorite/raw/main/IMG_20250111_194139_321-removebg-preview.png)
 
-<p align="center" style="font-weight:600;font-size:18px; border-bottom: 2px solid white; padding-bottom:10px;">
-About Me 💫
+<p align="center" style="font-weight:600;font-size:18px; border-bottom: 2px solid white; padding-bottom:10px;"><b>
+About Me 💫</b>
 </p>
 
-<p align="center" style="font-weight:600">
-hi👋 I am a student who really likes web development, especially frontend web dev. I have been studying web development since 2022 and I am self-taught.
+<p align="center" style="font-weight:600"><b>
+hi👋 I am a student who really likes web development, especially frontend web dev. I have been studying web development since 2022 and I am self-taught.</b>
 </br></br>
 </br>
 </p>
 
-<p align="center" style="font-weight:600">
-the thing I like the most is :
+<p align="center" style="font-weight:600"><b>
+the thing I like the most is :</b>
 </p>
 
-<p align="center" style="font-weight:600">
-Coding 👨‍💻 | Music 🎧 | Typing</br> Alone 👤 | Sleep  💤
+<p align="center" style="font-weight:600"><b>
+Coding 👨‍💻 | Music 🎧 | Typing</br> Alone 👤 | Sleep  💤</b>
 </br></br>
 </br>
 </p>
 
 
-<p align="center" style="font-weight:600; border-bottom: .1px solid #b3b3b3; padding-bottom:10px;">
-and I'm looking for a partner to be able to learn something new with me, maybe more than just a partner.
+<p align="center" style="font-weight:600; border-bottom: .1px solid #b3b3b3; padding-bottom:10px;"><b>
+and I'm looking for a partner to be able to learn something new with me, maybe more than just a partner.</b>
 </p>
 
-<p align="center" style="font-weight:600">SOCIALS
+<p align="center" style="font-weight:600"><b>SOCIALS</b>
 </p>
 
 <div align="center" style="width: 45%; margin: 0 auto;">
@@ -36,8 +36,8 @@ and I'm looking for a partner to be able to learn something new with me, maybe m
 
 </div>
 </br>
-<p align="center" style="font-weight:600">
-TECH STACK
+<p align="center" style="font-weight:600"><b>
+TECH STACK</b>
 </p>
 
 <div align="center" style="width: 110%; position: relative; left: -20px;">
@@ -75,15 +75,15 @@ TECH STACK
 </div>
 
 </br></br>
-<p align="center" style="font-weight:600">
-GITHUB STATISTICS
+<p align="center" style="font-weight:600"><b>
+GITHUB STATISTICS</b>
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=fridfn&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fridfn&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fridfn&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=fridfn&icon=7&color=6)](https://visitcount.itsvg.in)
  
 <p align="center">
@@ -93,6 +93,5 @@ GITHUB STATISTICS
 <p align="center">
   <b>Frontend Dev 💻 | Web Developer 👨‍💻 | Web Enthusiast 💡 | Autodidact Dev 🏅</b>
 </p>
-
 
 
