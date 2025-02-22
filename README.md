@@ -28,12 +28,10 @@ Coding 👨‍💻 | Music 🎧 | Typing</br> Alone 👤 | Sleep  💤</b>
 </br>
 </p>
 
-
-<p align="center" style="font-weight:600; border-bottom: .1px solid #b3b3b3; padding-bottom:10px;"><b>
-and I'm looking for a partner to be able to learn something new with me, maybe more than just a partner.</b>
+<p align="center" style="font-weight:600"><b>SOCIALS</b>
 </p>
 
-<p align="center" style="font-weight:600"><b>SOCIALS</b>
+<p align="center" style="font-weight:600; border-bottom: .1px solid #b3b3b3; padding-bottom:10px;"><b>I'm looking for a partner to be able to learn something new with me, maybe more than just a partner.</b>
 </p>
 
 <div align="center" style="width: 45%; margin: 0 auto;">
