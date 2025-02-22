@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geo&size=35&pause=1000&color=d3e2ff&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I+am+a+frontend+web+developer;3+years+experience)](https://git.io/typing-svg)<br>
 
+<p align="center" display='flex'>
+    <a href="https://instagram.com/https://www.instagram.com/fridfn">
+      <img src="https://render.gitanimals.org/lines/fridfn?pet-id=657051833278790750" width="600" height="120" />
+    </a>
+</p>
+
 ![Demo GIF](https://github.com/fridfn/exfavorite/raw/main/IMG_20250111_194139_321-removebg-preview.png)
 
 <p align="center" style="font-weight:600;font-size:18px; border-bottom: 2px solid white; padding-bottom:10px;"><b>
