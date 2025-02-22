@@ -3,7 +3,7 @@
 <p align="center" display='flex'>
     <a href="https://instagram.com/https://www.instagram.com/fridfn">
       
-  <img src="https://render.gitanimals.org/lines/fridfn?pet-id=671615300271345171" width="600" height="120"
+  <img src="https://render.gitanimals.org/lines/fridfn?pet-id=671615300271345171" width="600" height="150"
   />
 </p>
 
