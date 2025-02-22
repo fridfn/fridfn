@@ -2,8 +2,9 @@
 
 <p align="center" display='flex'>
     <a href="https://instagram.com/https://www.instagram.com/fridfn">
-      <img src="https://render.gitanimals.org/lines/fridfn?pet-id=657051833278790750" width="600" height="120" />
-    </a>
+      
+  <img src="https://render.gitanimals.org/lines/fridfn?pet-id=671615300271345171" width="600" height="120"
+  />
 </p>
 
 ![Demo GIF](https://github.com/fridfn/exfavorite/raw/main/IMG_20250111_194139_321-removebg-preview.png)
