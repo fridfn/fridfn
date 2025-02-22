@@ -99,8 +99,8 @@ GITHUB STATISTICS</b>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=fridfn&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/fridfn"
-  width="600"
-  height="300"
+  width="800"
+  height="150"
 />
 </a>
 
