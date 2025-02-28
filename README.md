@@ -5,7 +5,7 @@
       
   <img src="https://render.gitanimals.org/lines/fridfn?pet-id=671615300271345171" width="600" height="150"
   />
-  <img src="https://github.com/fridfn/Git-Animals-Pet/blob/main/two-cats.svg" width="600" height="95"/>
+  <img  src="https://github.com/fridfn/Git-Animals-Pet/blob/main/two-cats.svg" width="600" height="95"/>
 </p>
 
 ![Demo GIF](https://github.com/fridfn/exfavorite/raw/main/IMG_20250111_194139_321-removebg-preview.png)
