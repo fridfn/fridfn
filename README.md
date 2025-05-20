@@ -38,7 +38,7 @@ Coding 👨‍💻 | Music 🎧 | Typing</br> Alone 👤 | Sleep  💤</b>
 
 <div align="center" style="width: 45%; margin: 0 auto;">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fridfn?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fridfn_?igsh=MWswdmZ1MXM1bWhqYQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farid-fathoni-n-26a48b2b3?trk=contact-info&fbclid=PAZXh0bgNhZW0CMTEAAaaziZ4zgmPtLFgO4nSdsCIS8WWAfYjdevYBlj7mYPpUhnCdrSfTjatPoFM_aem_Wz9X6oo0K5mpeA3M8CtH9Q) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/4mpmTJiiv) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fridfn?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fridfn_?igsh=MWswdmZ1MXM1bWhqYQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farid-fathoni-n-26a48b2b3?trk=contact-info&fbclid=PAZXh0bgNhZW0CMTEAAaaziZ4zgmPtLFgO4nSdsCIS8WWAfYjdevYBlj7mYPpUhnCdrSfTjatPoFM_aem_Wz9X6oo0K5mpeA3M8CtH9Q) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/3AiTXT1yT) 
 
 </div>
 </br>
