@@ -58,16 +58,6 @@ GITHUB STATISTICS</b>
   <img src="https://github-profile-trophy.vercel.app/?username=fridfn&theme=radical&margin-w=10&rank=B,A,AA,AAA,S,SS,?&row=1&column=3" alt="Trophies" />
 </p>
 
-<a href="/">
-<img
-  src="https://render.gitanimals.org/farms/fridfn"
-  width="800"
-  height="150"
-  fill="#000"
-  background="transparent"
-/>
-</a>
-
 <p align="center">
   <b>Frontend Dev 💻 | Web Developer 👨‍💻 | Web Enthusiast 💡 | Autodidact Dev 🏅</b>
 </p>
