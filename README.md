@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://instagram.com/https://www.instagram.com/fridfn">
       
-  <img src="https://render.gitanimals.org/lines/fridfn?pet-id=671615300271345171" width="600" height="150"
+  <img src="https://render.gitanimals.org/lines/fridfn?pet-id=671615300271345171" width="600" height="300"
   />
   <img  src="https://github.com/fridfn/Git-Animals-Pet/blob/main/two-cats.svg" width="600" height="95"/>
 </p>
