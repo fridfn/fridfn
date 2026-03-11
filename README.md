@@ -47,9 +47,9 @@ Coding 👨‍💻 | Music 🎧 | Typing</br> Alone 👤 | Sleep  💤</b>
 GITHUB STATISTICS</b>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=fridfn&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats-fridfn.vercel.app/api?username=fridfn&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fridfn&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fridfn&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-fridfn.vercel.app/api/top-langs/?username=fridfn&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 [![](https://visitcount.itsvg.in/api?id=fridfn&icon=7&color=6)](https://visitcount.itsvg.in)
