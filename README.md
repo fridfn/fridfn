@@ -55,7 +55,7 @@ GITHUB STATISTICS</b>
 [![](https://visitcount.itsvg.in/api?id=fridfn&icon=7&color=6)](https://visitcount.itsvg.in)
  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fridfn&theme=radical&margin-w=10&rank=B,A,AA,AAA,S,SS,?&row=1&column=3" alt="Trophies" />
+  <img src="https://github-profile-trophy-fridfn.vercel.app/?username=fridfn&theme=radical&margin-w=10&rank=B,A,AA,AAA,S,SS,?&row=1&column=3" alt="Trophies" />
 </p>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=fridfn&utm_content=farm">
 <img
